@@ -1,0 +1,42 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.form24
+{
+    background-color: antiquewhite;
+    width: 25%;
+    height: 60vh;
+    margin-left: 35%;
+    margin-top: 15%;
+    border-radius: 10px;
+}
+
+.form24 input
+{
+    height: 5vh;
+    border: none;
+    border-radius: 10px;
+    margin-top: 5%;
+    width: 90%;
+}
+
+.form24 button
+{
+    margin-left: 30%;
+    margin-top: 8%;
+    border: none;
+    border-radius: 10px;
+    background: royalblue;
+    color: white;
+    padding: 10px 20px;
+}
+
+.form24 h1
+{
+    color: white;
+    margin-left: 25%;
+
+}

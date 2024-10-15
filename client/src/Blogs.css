@@ -1,0 +1,79 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.nodiv
+{
+    margin-top: 1%;
+}
+
+.img9
+{
+    width: 100%;
+    height: 86vh;
+    position: relative;
+    
+}
+
+.Blogset
+{
+    
+    margin-top: 5%;
+    width: 20%;
+    height: 50vh;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+  
+    
+}
+
+.vset
+{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-left: 5%;
+    height: 45vh;
+    border-radius: 10px;
+    width: 20%;
+}
+
+.cab
+{
+    margin-left: 15%;
+    padding: 10px 40px;
+    background-color: crimson;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: 18%;
+  margin-left: -16%;
+    text-decoration: none;
+    position: absolute;
+}
+
+
+
+.vset h4
+{
+    margin-left: 8%;
+    position: absolute;
+    margin-top: 3%;
+}
+
+.vset h1
+{
+    margin-left:3.5%;
+    position: absolute;
+}
+
+
+.nodiv h1
+{
+    font-size: 65px;
+    margin-top: -25%;
+    position: absolute;
+    margin-left: 5%;
+}

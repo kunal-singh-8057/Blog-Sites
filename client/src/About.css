@@ -1,0 +1,41 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.img67
+{
+    position: absolute;
+    height: 90vh;
+    margin-top: 2%;
+    width: 100%;
+}
+
+
+.noodiv h1
+{
+    position: absolute;
+    margin-top: 10%;
+    font-size: 85px;
+    margin-left: 65%;    
+}
+
+.noodiv p
+{
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 20%;
+}
+.cy
+{
+    padding: 10px 20px;
+    background-color: #FF553C;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    position: absolute;
+    text-decoration: none;
+    margin-left: 72%;
+    margin-top: 25%;
+}

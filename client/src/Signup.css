@@ -1,0 +1,63 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.img1
+{
+    width: 30%;
+    margin-top: -10%;
+    margin-left: 32%;
+
+}
+
+.form1
+{
+    background-color: #F8DE22;
+    width: 25%;
+    margin-left: 10%;
+    margin-top: -35%;
+    border-radius: 20px;
+    height: 58vh;
+    position: relative;
+    
+}
+
+.form1 h1 
+{
+    color: white;
+    margin-left: 32%;
+}
+
+.form1 input
+{
+    border: none;
+    border-radius: 10px;
+    height: 5vh;
+    margin-left: 10%;
+    width: 80%;
+}
+
+.form1 button
+{
+    margin-left: 35%;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color: crimson;
+    color: white;
+}
+
+.form1 p
+{
+    color: white;
+    margin-left: 15%;
+}
+
+.logbtn
+{
+    text-decoration: none;
+    color: white;
+    margin-top: 3%;
+}
